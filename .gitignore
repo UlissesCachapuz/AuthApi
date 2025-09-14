@@ -1,0 +1,58 @@
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Build Results
+bin/
+obj/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# EditorConfig
+.idea/
+*.sublime-workspace
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+# Imagens de Itens de Pacotes
+.project.tb/
+# Arquivos de cache do NuGet
+.nuget/Home/
+.nuget/packages/
+
+# Arquivos de backup
+*[Bb]ackup/
+*~ 
+*.bak
+*.bak2
+*.log
+
+# Arquivos de configuração
+appsettings.*.json
+
+# Arquivos gerados pelo Visual Studio
+*.vspscc
+*.vssscc
+
+# Arquivos temporários
+*_i.c
+*_p.c
+*_h.h
+
+# Docker 
+docker-compose.override.yml
+
+# Local de produção/serviço
+publish/
+publish */ 
